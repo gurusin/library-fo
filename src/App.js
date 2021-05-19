@@ -1,6 +1,6 @@
 import {BrowserRouter as Router} from 'react-router-dom';
 import {Route, Switch} from 'react-router-dom';
-import Author from "./Components/Author";
+import Author from "./Components/Author/Author";
 import Home from "./Components/Home";
 import Navigation from "./Navigation";
 import Article from "./Components/Article";
